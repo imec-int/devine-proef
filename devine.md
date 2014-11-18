@@ -41,6 +41,20 @@
 <div class='tags'><div class='service'></div><div class='atomise'></div><div class='reader'></div></div>
 
 
+##yahoo summary
+![yahoo summary screenshot](assets/img/yahoo-summary.gif)
+
+[https://mobile.yahoo.com/newsdigest/?ss=iphone](https://mobile.yahoo.com/newsdigest/?ss=iphone)
+<div class='tags'><div class='service'></div><div class='atomise'></div><div class='reader'></div></div>
+
+
+##yahoo summary
+![yahoo summary screenshot](assets/img/yahoo-summary.gif)
+
+[https://mobile.yahoo.com/newsdigest/?ss=iphone](https://mobile.yahoo.com/newsdigest/?ss=iphone)
+<div class='tags'><div class='service'></div><div class='atomise'></div><div class='reader'></div></div>
+
+
 
 #2
 ##huidige context
@@ -54,6 +68,7 @@
 ##multiscreen life
 <iframe src="//player.vimeo.com/video/73286935" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/73286935">Vigour Video</a> from <a href="http://vimeo.com/user18517960">Vigour.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 [vigour.io](http://vigour.io/)
+
 
 
 ##easy screen platforms
@@ -73,4 +88,10 @@
 ![touchcast screenshot](assets/img/touchcast.png)
 
 [http://www.touchcast.com/](http://www.touchcast.com/)
+
+
+#3
+##the challenge
+
+
 
