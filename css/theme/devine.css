@@ -171,7 +171,6 @@ body {
 }
 
 .tags div{
-  background-image: url("/assets/img/atom.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -180,5 +179,17 @@ body {
   margin-top: 2.5%;
   margin-bottom: 2.5%;
   margin-left: 6px;
+}
+
+.tags .social{
+  background-image: url("/assets/img/social.png");
+}
+
+.tags .atomize{
+  background-image: url("/assets/img/atom.png");
+}
+
+.tags .social{
+  background-image: url("/assets/img/atom.png");
 }
 
