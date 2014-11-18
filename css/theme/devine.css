@@ -185,11 +185,11 @@ body {
   background-image: url("/assets/img/social.png");
 }
 
-.tags .atomize{
-  background-image: url("/assets/img/atom.png");
+.tags .paper{
+  background-image: url("/assets/img/paper.png");
 }
 
-.tags .social{
-  background-image: url("/assets/img/atom.png");
+.tags .scraped{
+  background-image: url("/assets/img/rss.png");
 }
 
