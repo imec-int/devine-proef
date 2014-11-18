@@ -17,10 +17,16 @@
 ![streamstore screenshot](assets/img/streamstore.png)
 
 [streamstore homepage](http://www.iminds.be/nl/projecten/2014/04/17/stream-store)
+<div class='tags'><div class='atomize'></div><div class='rebundel'><div class='resell'></div><div class='curated'></div>
 
 
+##blendle
+![blendle screenshot](assets/img/blendle.png)
 
- b
+[https://blendle.nl/](https://blendle.nl/)
+<div class='tags'><div class='atomize'></div><div class='rebundel'><div class='resell'></div><div class='curated'></div>
+
+
 
 #2
 ##mediatijdsbesteding
