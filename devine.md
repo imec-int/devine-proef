@@ -90,10 +90,6 @@
 [vigour.io](http://vigour.io/)
 
 
-
-#easy screen platforms
-
-
 ##stevie
 <iframe width="1131" height="636" src="//www.mystevie.com/mystevietv" frameborder="0" allowfullscreen></iframe>
 
@@ -119,6 +115,7 @@
 [http://www.touchcast.com/](http://www.touchcast.com/)
 
 
+
 #3
 ##the challenge
 
@@ -137,3 +134,7 @@
 ##.
 ##en waarom is dit beter?
 
+
+
+#succes
+![MiX logo](assets/img/iMinds_MediaInnovationCenter_RGB.png)
