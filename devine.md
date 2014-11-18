@@ -61,5 +61,16 @@
 
 
 ##video as an interactive platform
-https://www.zentrick.com/gallery
-http://www.touchcast.com/
+
+
+##zentrick
+![zentrick screenshot](assets/img/zentrick.png)
+
+[https://www.zentrick.com/gallery](https://www.zentrick.com/gallery)
+
+
+##touchcast
+![touchcast screenshot](assets/img/touchcast.png)
+
+[http://www.touchcast.com/](http://www.touchcast.com/)
+
