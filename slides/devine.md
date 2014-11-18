@@ -37,10 +37,29 @@
 ##summly
 ![summly screenshot](assets/img/summly.jpg)
 
-[http://www.summly.com/index.html](http://www.summly.com/index.html)
+[http://www.summly.com/](http://www.summly.com/index.html)
 <div class='tags'><div class='service'></div><div class='atomise'></div><div class='reader'></div></div>
 
 
 
 #2
+##huidige context
+
+
 ##mediatijdsbesteding
+
+![summly screenshot](assets/img/mediabesteding.png)
+
+
+##multiscreen life
+<iframe src="//player.vimeo.com/video/73286935" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/73286935">Vigour Video</a> from <a href="http://vimeo.com/user18517960">Vigour.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[vigour.io](http://vigour.io/)
+
+
+##easy screen platforms
+#stevie
+
+
+##video as an interactive platform
+https://www.zentrick.com/gallery
+http://www.touchcast.com/
