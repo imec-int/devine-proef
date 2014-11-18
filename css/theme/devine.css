@@ -208,3 +208,45 @@ body {
 .tags .topic{
   background-image: url("/assets/img/topic.png");
 }
+
+.legende div{
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  height: 64px;
+  width: 64px;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  margin-left: 6px;
+}
+
+
+
+.legende .social{
+  background-image: url("/assets/img/social.png");
+}
+
+.legende .paper{
+  background-image: url("/assets/img/paper.png");
+}
+
+.legende .scraped{
+  background-image: url("/assets/img/rss.png");
+}
+
+.legende .transform{
+  background-image: url("/assets/img/transform.png");
+}
+
+.legende .interactive{
+  background-image: url("/assets/img/interactive.png");
+}
+
+.legende .curated{
+  background-image: url("/assets/img/person.png");
+}
+
+.legende .topic{
+  background-image: url("/assets/img/topic.png");
+}
+
