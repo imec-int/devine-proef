@@ -13,6 +13,7 @@
 [rss reading apps](https://www.google.be/search?q=flipboard+screenshot&safe=off&es_sm=91&tbm=isch&tbo=u&source=univ&sa=X&ei=tSFrVIHjG9XsaNW0gZAK&ved=0CCMQsAQ&biw=1676&bih=956#safe=off&tbm=isch&q=flipboard+pulse+feedly+google+currents&imgdii=_)
 <div class='tags'><div class='social'></div><div class='rebundel'></div><div class='reader'></div></div>
 
+
 ##streamstore
 ![streamstore screenshot](assets/img/streamstore.png)
 
@@ -71,8 +72,17 @@
 
 
 
-##easy screen platforms
-#stevie
+#easy screen platforms
+
+
+##stevie
+<iframe width="1131" height="636" src="//www.mystevie.com/mystevietv" frameborder="0" allowfullscreen></iframe>
+
+
+##Umano
+![umano screenshot](assets/img/umano.jpg)
+
+[https://umano.me//](https://umano.me/)
 
 
 ##video as an interactive platform

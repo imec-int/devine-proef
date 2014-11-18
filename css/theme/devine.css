@@ -100,7 +100,8 @@ body {
   -moz-transition: all .2s linear;
   -ms-transition: all .2s linear;
   -o-transition: all .2s linear;
-  transition: all .2s linear; }
+  transition: all .2s linear;
+  max-height: 60vh;}
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
@@ -157,4 +158,27 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #13daec; }
+
+/*********************************************
+ * TAGS
+ *********************************************/
+.tags{
+  position: absolute;
+  top: 0px;
+  right: 8%;
+  width: 80px;
+  background-color: rgba(225,225,225,0.6);
+}
+
+.tags div{
+  background-image: url("/assets/img/atom.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  height: 64px;
+  width: 64px;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  margin-left: 6px;
+}
 
