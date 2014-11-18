@@ -193,3 +193,18 @@ body {
   background-image: url("/assets/img/rss.png");
 }
 
+.tags .transform{
+  background-image: url("/assets/img/transform.png");
+}
+
+.tags .interactive{
+  background-image: url("/assets/img/interactive.png");
+}
+
+.tags .curated{
+  background-image: url("/assets/img/person.png");
+}
+
+.tags .topic{
+  background-image: url("/assets/img/topic.png");
+}
