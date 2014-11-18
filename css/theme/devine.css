@@ -182,31 +182,31 @@ body {
 }
 
 .tags .social{
-  background-image: url("/assets/img/social.png");
+  background-image: url("../../assets/img/social.png");
 }
 
 .tags .paper{
-  background-image: url("/assets/img/paper.png");
+  background-image: url("../../assets/img/paper.png");
 }
 
 .tags .scraped{
-  background-image: url("/assets/img/rss.png");
+  background-image: url("../../assets/img/rss.png");
 }
 
 .tags .transform{
-  background-image: url("/assets/img/transform.png");
+  background-image: url("../../assets/img/transform.png");
 }
 
 .tags .interactive{
-  background-image: url("/assets/img/interactive.png");
+  background-image: url("../../assets/img/interactive.png");
 }
 
 .tags .curated{
-  background-image: url("/assets/img/person.png");
+  background-image: url("../../assets/img/person.png");
 }
 
 .tags .topic{
-  background-image: url("/assets/img/topic.png");
+  background-image: url("../../assets/img/topic.png");
 }
 
 .legende div{
@@ -223,30 +223,30 @@ body {
 
 
 .legende .social{
-  background-image: url("/assets/img/social.png");
+  background-image: url("../../assets/img/social.png");
 }
 
 .legende .paper{
-  background-image: url("/assets/img/paper.png");
+  background-image: url("../../assets/img/paper.png");
 }
 
 .legende .scraped{
-  background-image: url("/assets/img/rss.png");
+  background-image: url("../../assets/img/rss.png");
 }
 
 .legende .transform{
-  background-image: url("/assets/img/transform.png");
+  background-image: url("../../assets/img/transform.png");
 }
 
 .legende .interactive{
-  background-image: url("/assets/img/interactive.png");
+  background-image: url("../../assets/img/interactive.png");
 }
 
 .legende .curated{
-  background-image: url("/assets/img/person.png");
+  background-image: url("../../assets/img/person.png");
 }
 
 .legende .topic{
-  background-image: url("/assets/img/topic.png");
+  background-image: url("../../assets/img/topic.png");
 }
 
