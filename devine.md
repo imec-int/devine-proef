@@ -7,6 +7,24 @@
 ##state of the art
 
 
+<div class='legende'>
+	<div class="level1">
+		<div class='scraped'></div>content van het web geplukt
+		<div class='paper'></div>content niet speciaal voor digitale consumptie
+		<div class='social'></div>content van de vrienden/het netwerk
+	</div>
+	<div class="level2">
+		<div class='curated'></div>is er een expert dir content selecteerd
+		<div class='topic'></div>is er een tagbased (topic) machine selectie
+	</div>
+	<div class="level3">
+		<div class='static'></div>geen transformatie
+		<div class='interactive'></div>feedback mogelijk naar de creator
+		<div class='transform'></div>content wordt aangepast voor herpublicatie
+	</div>
+</div>
+
+
 ##flipboard
 ![flipboard screenshot](assets/img/flipboard.jpg)
 
