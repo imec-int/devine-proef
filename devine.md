@@ -85,7 +85,7 @@
 ![summly screenshot](assets/img/mediabesteding.png)
 
 
-##multiscreen life
+##multiscreen leven
 <iframe src="//player.vimeo.com/video/73286935" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/73286935">Vigour Video</a> from <a href="http://vimeo.com/user18517960">Vigour.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 [vigour.io](http://vigour.io/)
 
