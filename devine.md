@@ -7,6 +7,7 @@
 ##state of the art
 
 
+##op de volgende paginas zien jullie voorbeelden van enkele huidige newsapps
 <div class='legende'>
 	<div class="level1">
 		<div class='scraped'></div>content van het web geplukt
