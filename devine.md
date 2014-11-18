@@ -21,6 +21,13 @@
 <div class='tags'><div class='paper'></div><div class='curated'></div><div class='static'></div></div>
 
 
+##de correspondent
+![correspondent summary screenshot](assets/img/correspondent.png)
+
+[http://cir.ca/](http://cir.ca/)
+<div class='tags'><div class='social'></div><div class='curated'></div><div class='interactive'></div></div>
+
+
 ##blendle
 ![blendle screenshot](assets/img/blendle.png)
 
@@ -98,8 +105,16 @@
 
 
 #Wat is nieuws?
-##2 paginas lang editoriaal? of liever [ninjanieuws](http://instagram.com/ninjanieuws?modal=true)
-##if (form > function) {concept > content}
+##2 paginas lang editoriaal?
+##of liever [ninjanieuws](http://instagram.com/ninjanieuws?modal=true)?
+##of gewoon facebook/twitter?
+###if (form > function) {concept > content}
 
 
-#Hoe consumeer je dit
+#Hoe consumeer je dit?
+##Ga je voor de google glass?
+##of liever de smartwatch?
+##of gewoon een smartphone app?
+##.
+##en waarom is dit beter?
+
