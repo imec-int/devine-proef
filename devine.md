@@ -9,19 +9,19 @@
 
 ##op de volgende paginas zien jullie voorbeelden van enkele huidige newsapps
 <div class='legende'>
-	<div class="level1">
-		<div class='scraped'></div>content van het web geplukt
-		<div class='paper'></div>content niet speciaal voor digitale consumptie
-		<div class='social'></div>content van de vrienden/het netwerk
+	<div class="level">
+		<p><div class='scraped'></div>content van het web geplukt</p>
+		<p><div class='paper'></div>content niet speciaal voor digitale consumptie</p>
+		<p><div class='social'></div>content van de vrienden/het netwerk</p>
 	</div>
-	<div class="level2">
-		<div class='curated'></div>is er een expert dir content selecteerd
-		<div class='topic'></div>is er een tagbased (topic) machine selectie
+	<div class="level">
+		<p><div class='curated'></div>is er een expert die content selecteerd</p>
+		<p><div class='topic'></div>is er een tagbased (topic) machine selectie</p>
 	</div>
-	<div class="level3">
-		<div class='static'></div>geen transformatie
-		<div class='interactive'></div>feedback mogelijk naar de creator
-		<div class='transform'></div>content wordt aangepast voor herpublicatie
+	<div class="level">
+		<p><div class='interactive'></div>feedback mogelijk naar de creator</p>
+		<p><div class='transform'></div>content wordt aangepast voor herpublicatie</p>
+		<p><div class='static'></div>geen transformatie</p>
 	</div>
 </div>
 
