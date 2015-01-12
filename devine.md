@@ -75,6 +75,12 @@
 <div class='tags'><div class='social'></div><div class='topic'></div><div class='transform'></div></div>
 
 
+##persinnovatie.nl: The challenge
+![the challenge](http://static.mediamatic.nl/f/svjd/image/873/17720-950-672.jpg) 
+
+[http://www.persinnovatie.nl/18287/nl/deze-16-projecten-doen-mee-aan-the-challenge](http://www.persinnovatie.nl/18287/nl/deze-16-projecten-doen-mee-aan-the-challenge)
+
+
 
 #2
 ##huidige context
